@@ -20,7 +20,8 @@ Uma recriação simples do Spotify, exibindo álbuns e artistas utilizando JavaS
 - HTML
 - CSS
 - JavaScript
-
+##Link do Site
+https://clone-spotifyh.netlify.app/
 ## 📦 Instalação
 
 Clone o repositório e abra o arquivo `index.html` em seu navegador.
