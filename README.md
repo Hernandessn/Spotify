@@ -26,13 +26,6 @@ Uma recriação simples do Spotify, exibindo álbuns e artistas utilizando JavaS
 https://clone-spotifyh.netlify.app/
 
 
-## 📦 Instalação
-
-Clone o repositório e abra o arquivo `index.html` em seu navegador.
-
-```bash
-# Clone o repositório
-git clone https://github.com/Hernandessn/Spotify.git
 
 
 
