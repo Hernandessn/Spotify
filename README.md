@@ -2,8 +2,7 @@
 
 ## Screenshots
 
-<img src="
-https://cdn.discordapp.com/attachments/1225612992201363552/1292589613755535481/spotify.PNG?ex=67044963&is=6702f7e3&hm=2042790e4c2e68aee73d3e9a15895f69dbe48dcca672912c11727a9022957015&" />
+<img src="https://cdn.discordapp.com/attachments/1225612992201363552/1320185226189869056/s-pc.png?ex=6768adcd&is=67675c4d&hm=5831c8c13057b67c666afc1cc800581dbe4d2f4ea7c76cb0cb8cc09a8982eb88&" />
 
 # 🎵 Clone do Spotify
 
